@@ -1,3 +1,4 @@
+// Задание 4.1
 
 const revealAll = document.querySelectorAll('.reveal');
 
